@@ -62,6 +62,7 @@ Prompt: “Create a RESTful API endpoint for a user registration system, includi
 
 Realistic image of ... realistic image, ... use bright colors and joyful sunny day.
 A real photograph <br>
+Create Hyper-realistic <br>
 A 3D image…<br>
 A 3D rendering of<br>
 A portrait of…<br>
@@ -70,13 +71,13 @@ A sketch of…<br>
 An impressionist painting of<br>
 Cinematic overhead shot of... Moody lightning, 35mm film look, shallow depth of field, sharp focus on me. Ratio 4:3<br>
 
-```Restaurar fotografia dañada:```<br>
+```Subiendo una foto; Restaurar fotografia dañada:```<br>
 Prompt: "Restaura una fotografía antigua y deteriorada de una persona, eliminando manchas, rayones y desgastes manteniendo su expresión facial, ropa y fondo originales. La imagen debe parecer recién tomada con un iPhone 15 Pro Max, en alta resolución, con iluminación natural suave textura de piel realista, enfoque nítido en el rostro y fondo ligeramente desenfocada. no cambies la pose, edad ni estilo de persona, solo mejora el estado de la imagen manteniendo fiel a la original"
 
-```Eliminar marca de agua y mejora imagen:```<br>
+```Subiendo una image; eliminar marca de agua y mejora imagen:```<br>
 Prompt: "Restaura esta imagen y cambiar a una resolución de 1080 x 1080px @ 300ppi, con fondo transparente, elimina cualquier marca de agua si esta presente en la imagen. respeta mis indicaciones, la quiero tal cual te especifico"
 
-```Con una foto mia:```<br>
+```Subiendo una foto; (mia)```<br>
 Prompt: "Cinematic overhead shot of me standing still on a brick city sidewalk, wearing a dark oversize sweater. Motion-blurred crowd rushes past around me. Moody lightning, 35mm film look, shallow depth of field, sharp focus on me. Ratio 4:3"
 
 Prompt: "Toma cenital cinematográfica donde aparezco yo, inmóvil en una acera de ladrillos, con un suéter oscuro y holgado. Una multitud, borrosa por el movimiento, pasa a toda velocidad a mi alrededor. Iluminación tenue, aspecto de película de 35 mm, poca profundidad de campo, enfoque nítido sobre mí. Relación de aspecto 4:3"
