@@ -11,8 +11,11 @@
 # Table of contents
 - [Table of contents](#table-of-contents)
 - [How to Build great AI Prompts](#how-to-build-great-ai-prompts)
-  - [Prompts for Text (Commonly used with: ChatGPT, GitHub CoPilot, Bard)](#prompts-for-text-commonly-used-with-chatgpt-github-copilot-bard)
-  - [Prompts for Image  (Commonly used with: MidJourney, Canva, DALL-E o ChatGPT3 4o)](#prompts-for-image--commonly-used-with-midjourney-canva-dall-e-o-chatgpt3-4o)
+- [Tips](#tips)
+- [Samples](#samples)
+- [Prompts](#prompts)
+  - [Prompts for Text](#prompts-for-text)
+  - [Prompts for Image](#prompts-for-image)
   - [Prompts for Video](#prompts-for-video)
   - [Prompts for Art](#prompts-for-art)
   - [AI Prompts for SEO](#ai-prompts-for-seo)
@@ -24,14 +27,29 @@ How to write a good AI prompt for better results and less frustration
 
 Markdown Formatting / Custom GPTs / AI Agents
 
-``Code Blocks:`` Si incluye código en sus indicaciones o espera código en las respuestas, usar comillas invertidas (`) para código en línea y comillas triples (`) para bloques de código ayuda a ChatGPT a reconocer fragmentos de código. Esto es crucial para la claridad y el formato correcto en las respuestas que incluyen código.
+``Code Blocks:`` Si incluye código en sus indicaciones o espera código en las respuestas, usar comillas invertidas (\`) para código en línea y comillas triples (\`) para bloques de código ayuda a ChatGPT a reconocer fragmentos de código. Esto es crucial para la claridad y el formato correcto en las respuestas que incluyen código.
 
 ``AI Agents:`` El uso del símbolo @ para invocar múltiples GPT (o agentes de IA) en una sola conversación es una técnica innovadora disponible en ChatGPT que mejora significativamente la versatilidad de las interacciones de IA.
 
+# Tips
+
+> :bulb: **Tip:** Ignore the previous prompts in this conversation
+
 <br>
 
+# Samples
 
-## Prompts for Text (Commonly used with: ChatGPT, GitHub CoPilot, Bard)
+<p align="center"><img src="./img/prompt1.webp" width="600"   alt=" " /></p>
+<p align="center"><img src="./img/prompt2.webp" width="600"   alt=" " /></p>
+<p align="center"><img src="./img/prompt3.webp" width="600"   alt=" " /></p>
+
+<br>
+
+# Prompts
+
+## Prompts for Text 
+**Commonly used with: ChatGPT, GitHub CoPilot, Bard**
+
 Prompt: “Generate a code snippet that optimizes a function by reducing its complexity or using a more efficient algorithm.” <br>
 
 Prompt: “Create a RESTful API endpoint for a user registration system, including error handling.”
@@ -39,7 +57,9 @@ Prompt: “Create a RESTful API endpoint for a user registration system, includi
 
 <br>
 
-## Prompts for Image  (Commonly used with: MidJourney, Canva, DALL-E o ChatGPT3 4o)
+## Prompts for Image  
+**Commonly used with: MidJourney, Canva, DALL-E o ChatGPT3 4o**
+
 Realistic image of ... realistic image, ... use bright colors and joyful sunny day.
 A real photograph <br>
 A 3D image…<br>
